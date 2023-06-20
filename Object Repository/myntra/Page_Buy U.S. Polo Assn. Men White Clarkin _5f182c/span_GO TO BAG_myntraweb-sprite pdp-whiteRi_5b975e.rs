@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_GO TO BAG_myntraweb-sprite pdp-whiteRi_5b975e</name>
+   <tag></tag>
+   <elementGuidId>619b6ad4-9019-4fb9-95f0-8fd3a7c0f07e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.myntraweb-sprite.pdp-whiteRightArrow.sprites-whiteRightArrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountRoot']/div/div/main/div[2]/div[2]/div[2]/div[3]/div/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>778da4e3-0676-4b88-914b-44c1f744a72c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>myntraweb-sprite pdp-whiteRightArrow sprites-whiteRightArrow</value>
+      <webElementGuid>4fb9c375-9623-4977-a8cf-9446810663a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountRoot&quot;)/div[1]/div[1]/main[@class=&quot;pdp-pdp-container&quot;]/div[@class=&quot;pdp-details common-clearfix&quot;]/div[@class=&quot;pdp-description-container&quot;]/div[2]/div[3]/div[@class=&quot;pdp-action-container pdp-fixed&quot;]/a[@class=&quot;pdp-goToCart pdp-add-to-bag pdp-button pdp-flex pdp-center&quot;]/span[@class=&quot;myntraweb-sprite pdp-whiteRightArrow sprites-whiteRightArrow&quot;]</value>
+      <webElementGuid>48f727c3-a7a4-4fc4-8f40-23016be62efe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountRoot']/div/div/main/div[2]/div[2]/div[2]/div[3]/div/a/span[2]</value>
+      <webElementGuid>33e87873-9344-457a-831a-3042975a61da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/span[2]</value>
+      <webElementGuid>9daaf3a6-6d2c-44fd-a675-e77183b89239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

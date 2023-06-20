@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mobile  Accessories</name>
+   <tag></tag>
+   <elementGuidId>634b80cc-a2f2-4df2-8a27-bd61e9781c20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftNavMenuRevamp']/div/div[2]/ul/li[8]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>527886ba-f195-4881-a834-94b53d77d6c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>catText</value>
+      <webElementGuid>c3a824b6-c21d-40a2-9e8d-e893e76c03d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile &amp; Accessories</value>
+      <webElementGuid>063efc8e-29d8-40d7-b881-e89d7710110a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftNavMenuRevamp&quot;)/div[@class=&quot;leftNavWrapperRevamp&quot;]/div[@class=&quot;leftNavigationLeftContainer&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;navlink lnHeight hoverIn&quot;]/a[@class=&quot;menuLinks leftCategoriesProduct&quot;]/span[@class=&quot;catText&quot;]</value>
+      <webElementGuid>85710b16-3e49-4545-ad96-09ff6c41108a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftNavMenuRevamp']/div/div[2]/ul/li[8]/a/span</value>
+      <webElementGuid>d76a4faf-667c-4733-acb6-d5d2a940dbb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bike Tyres'])[1]/following::span[21]</value>
+      <webElementGuid>3176f305-244d-4d56-84a4-30e07c60bb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Car Tyres'])[1]/following::span[22]</value>
+      <webElementGuid>646551fe-89f8-4a4a-a418-4c0313de6a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Cases &amp; Covers'])[1]/preceding::span[1]</value>
+      <webElementGuid>4e6ea556-34f0-4184-bac5-2ac655bc0d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Printed Back Covers'])[1]/preceding::span[2]</value>
+      <webElementGuid>e70d51ba-8d81-4ccd-bd27-f12543c768dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mobile &amp; Accessories']/parent::*</value>
+      <webElementGuid>f591a278-b4b0-4fa8-b3a7-538d159f4465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/span</value>
+      <webElementGuid>5c7fc804-35ff-45b6-acea-22f1550d7fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mobile &amp; Accessories' or . = 'Mobile &amp; Accessories')]</value>
+      <webElementGuid>37c05962-a10b-4fb6-850c-93b3503d0564</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

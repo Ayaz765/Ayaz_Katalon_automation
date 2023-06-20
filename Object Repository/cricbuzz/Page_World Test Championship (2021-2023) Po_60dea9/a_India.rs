@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_India</name>
+   <tag></tag>
+   <elementGuidId>2e23a202-254a-4587-a9d0-3582b0fe57f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/table/tbody/tr[2]/td[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.cb-srs-pnts-td.text-left > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fdaa1775-7422-482a-a8aa-9d00a171bf91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cricket-team/india/2</value>
+      <webElementGuid>ba0d9505-a13e-40b1-9232-4a0e29ba5f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>India</value>
+      <webElementGuid>852887f1-9a05-4ae5-a553-e5388193bb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;cb-bg-white cb-col-100 cb-col&quot;]/div[@class=&quot;cb-col-67 cb-col cb-left cb-hm-rght&quot;]/table[@class=&quot;table cb-srs-pnts&quot;]/tbody[1]/tr[2]/td[@class=&quot;cb-srs-pnts-td text-left&quot;]/a[1]</value>
+      <webElementGuid>2babbe3a-42b9-4423-a34b-0bb2f9658aec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/table/tbody/tr[2]/td[3]/a</value>
+      <webElementGuid>c58ea850-f218-4825-83c8-a735f91ef49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'India')])[3]</value>
+      <webElementGuid>067f58af-ae07-4b9d-b90a-dbb00dbbd63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia'])[2]/following::a[2]</value>
+      <webElementGuid>ca92ed0e-e14d-426f-877c-c693e39479e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PCT'])[1]/following::a[4]</value>
+      <webElementGuid>81fbe8cc-a118-4938-9de3-9ba569893aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South Africa'])[2]/preceding::a[2]</value>
+      <webElementGuid>acf84776-a55c-43e9-abff-141ba5283c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='England'])[2]/preceding::a[4]</value>
+      <webElementGuid>92e771eb-bc6e-4559-984e-3d76d66c9284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/cricket-team/india/2')])[3]</value>
+      <webElementGuid>e742811d-c660-474c-8568-45940115e093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/a</value>
+      <webElementGuid>00813a73-1b04-49f0-a3b2-accae93ac04d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cricket-team/india/2' and (text() = 'India' or . = 'India')]</value>
+      <webElementGuid>1c26231b-583f-40a4-977f-89f7a98b5858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

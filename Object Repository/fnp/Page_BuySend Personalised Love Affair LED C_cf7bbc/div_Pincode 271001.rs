@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pincode 271001</name>
+   <tag></tag>
+   <elementGuidId>bbf5aa76-0417-4944-8c16-05a403456778</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.custom-delivery-textbox_deliveryInputMsg__y-zTf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pincode-input']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d249639f-e551-485c-8842-cc61b8caa5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root custom-delivery-textbox_deliveryInputMsg__y-zTf</value>
+      <webElementGuid>5b4934b2-0ea7-47ff-b60a-5f4f8f4b6ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pincode: 271001</value>
+      <webElementGuid>0378dc5d-5170-4ded-9f9a-c54e8096b620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pincode-input&quot;)/div[@class=&quot;MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root custom-delivery-textbox_deliveryInputMsg__y-zTf&quot;]</value>
+      <webElementGuid>b82b94d7-da6c-4291-be31-977781187533</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pincode-input']/div/div[2]</value>
+      <webElementGuid>e5913856-be0a-455c-88eb-d7d86ae1dae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Know More'])[2]/following::div[6]</value>
+      <webElementGuid>a6ad9080-a858-4f4c-a993-bb0e80796ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earliest by Tomorrow'])[1]/following::div[7]</value>
+      <webElementGuid>8635bc8d-d086-4f47-bd00-0c545da59b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Delivery Date'])[1]/preceding::div[2]</value>
+      <webElementGuid>562f61cf-ec4d-4feb-8f6e-b16c5e3ef6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div[2]</value>
+      <webElementGuid>3efd2943-ffbb-46ac-b5b4-a97323266d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pincode: 271001' or . = 'Pincode: 271001')]</value>
+      <webElementGuid>915fd16a-5a9b-4c8a-9f62-486fbeed7cf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

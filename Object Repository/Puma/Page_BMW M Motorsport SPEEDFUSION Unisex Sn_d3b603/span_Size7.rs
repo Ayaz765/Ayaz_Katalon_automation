@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Size7</name>
+   <tag></tag>
+   <elementGuidId>aee95783-1bb5-4fb5-ad24-6224c831ede3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='size-picker']/label[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8950c14e-e2b9-451f-a202-6ca330eb4712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0 flex items-center justify-center</value>
+      <webElementGuid>6d8515a7-2e77-4ac7-8f88-6f8a83e2b99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Size7</value>
+      <webElementGuid>22713e2e-2c03-4df1-aac6-eab07d76edbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;size-picker&quot;)/label[@class=&quot;relative border flex items-center justify-center flex-none rounded-sm cursor-pointer&quot;]/span[@class=&quot;absolute inset-0 flex items-center justify-center&quot;]</value>
+      <webElementGuid>0f77ca9b-0b0e-44bd-970d-faa923c6b902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='size-picker']/label[2]/span</value>
+      <webElementGuid>e696cedc-be36-497d-b497-c84ff832153c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::span[2]</value>
+      <webElementGuid>4ab51a93-2297-465b-aff8-cc32ab721824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cool Cobalt-PUMA White'])[2]/following::span[4]</value>
+      <webElementGuid>8a9dce16-ca07-49d1-a3c4-1ac590b59a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find My Size'])[1]/preceding::span[3]</value>
+      <webElementGuid>523c6bb6-4d24-436b-9c28-2001ecc1d02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label[2]/span</value>
+      <webElementGuid>b57bbfa0-a062-41e1-9205-aa612740c225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Size7' or . = 'Size7')]</value>
+      <webElementGuid>22ebbd32-0933-4203-9fb9-ea3969d3ad08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

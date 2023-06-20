@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-responsive</name>
+   <tag></tag>
+   <elementGuidId>273429ce-f141-40d2-9421-19937997de3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slick-slide.slick-active.slick-center > div > div > picture.img-responsive > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopSearchResults']/div[2]/section/ul/li[2]/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ac307718-acd0-4646-a9f9-480b039b35ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e6f3c4d9-26ce-4c2f-907f-be8450dc7d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10339033/2022/4/25/3170e623-ab80-4678-9628-14cb6033ab171650883660619USPoloAssnMenWhiteClarkinSneakers1.jpg</value>
+      <webElementGuid>1dad9a1e-e90a-4a34-a258-59b2b82ce1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>471c8e2b-f558-4dba-916f-a7428b0e9789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>U.S. Polo Assn. Men White Clarkin Sneakers</value>
+      <webElementGuid>a28bdef5-a684-477d-9571-a218046202a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>U.S. Polo Assn. Men White Clarkin Sneakers</value>
+      <webElementGuid>d273eef3-cef0-4763-a719-88a6395dceda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopSearchResults&quot;)/div[@class=&quot;search-searchProductsContainer row-base&quot;]/section[1]/ul[@class=&quot;results-base&quot;]/li[@class=&quot;product-base&quot;]/a[1]/div[@class=&quot;product-imageSliderContainer&quot;]/div[@class=&quot;product-sliderContainer&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-center&quot;]/div[1]/div[1]/picture[@class=&quot;img-responsive&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>f8e6a7a9-6946-4c1c-9244-88b557a1ae02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopSearchResults']/div[2]/section/ul/li[2]/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      <webElementGuid>96fcf789-6a42-4bde-9720-63d4e88d21b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='U.S. Polo Assn. Men White Clarkin Sneakers'])[2]</value>
+      <webElementGuid>7caa6c75-6170-44a5-bfd7-f85c45188541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/picture/img</value>
+      <webElementGuid>8005dcc0-1d02-4ea7-94fc-c76369293b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10339033/2022/4/25/3170e623-ab80-4678-9628-14cb6033ab171650883660619USPoloAssnMenWhiteClarkinSneakers1.jpg' and @alt = 'U.S. Polo Assn. Men White Clarkin Sneakers' and @title = 'U.S. Polo Assn. Men White Clarkin Sneakers']</value>
+      <webElementGuid>df6fc92e-2b82-4f4b-b5bf-d6e8d28dce24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

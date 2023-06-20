@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>810b5efc-1c87-4d1d-b8a2-03315c18317d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Carrier 1 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,Dual Filtration with H&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='acs-product-block-0']/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>47a1a591-8327-4378-927e-a0a35302066b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Carrier 1 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,Dual Filtration with H</value>
+      <webElementGuid>0d1a3d67-5ecd-45b7-b042-de4d0288e649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-eu.ssl-images-amazon.com/images/I/31Dj+OHssJL._AC_SX368_.jpg</value>
+      <webElementGuid>799b3bd0-669c-4210-98bb-0e83fe769ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-hires</name>
+      <type>Main</type>
+      <value>https://images-eu.ssl-images-amazon.com/images/I/31Dj+OHssJL._AC_SX368_.jpg</value>
+      <webElementGuid>380134ac-e7bf-4361-8033-9b0764d613c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anonCarousel1&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card acswidget-carousel__card&quot;]/div[@id=&quot;acs-product-block-0&quot;]/div[@class=&quot;a-section a-spacing-mini a-spacing-top-micro acs-product-block__product-image&quot;]/a[@class=&quot;a-color-base a-link-normal&quot;]/img[1]</value>
+      <webElementGuid>ec79417d-d2d5-4b83-a199-62f3d5661031</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='acs-product-block-0']/div/a/img</value>
+      <webElementGuid>cb7b2336-2085-44fd-8f75-e1b1ea7e6e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Carrier 1 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,Dual Filtration with H']</value>
+      <webElementGuid>0632f319-bc2c-4e1b-93c8-24781bca9723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/a/img</value>
+      <webElementGuid>7c64f9cd-8f67-49f0-8d3a-b3de45a3c101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Carrier 1 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,Dual Filtration with H' and @src = 'https://images-eu.ssl-images-amazon.com/images/I/31Dj+OHssJL._AC_SX368_.jpg']</value>
+      <webElementGuid>9b308e87-1746-412c-b9e2-4acff6ade848</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

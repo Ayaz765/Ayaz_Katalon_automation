@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Men</name>
+   <tag></tag>
+   <elementGuidId>b82115d6-0f5f-46b7-acf5-619fd7d56dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-bar-sticky']/nav/div/ul/li[3]/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c229e2b9-1423-480e-8ed6-efdbdc7ff483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base block mt-1 pb-1 whitespace-nowrap nav-underline group-hover:nav-underline-selected group-focus:nav-underline-selected</value>
+      <webElementGuid>f2e200ad-5ad9-4fec-8383-36be2a26c40d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Men</value>
+      <webElementGuid>2364f3ed-c834-4a92-b69d-b0406767a443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-bar-sticky&quot;)/nav[@class=&quot;bg-puma-black-100 text-white&quot;]/div[@class=&quot;h-16 lg:h-20 flex items-center justify-between mx-auto overflow-y-visible max-w-screen-3xl mobile:px-4 tablet:px-6 desktop:px-8&quot;]/ul[@class=&quot;flex self-stretch flex-1 items-center overflow-x-hidden ml-5 hover:nav-fade-non-selected&quot;]/li[@class=&quot;group whitespace-nowrap flex&quot;]/div[@class=&quot;flex self-stretch hover:nav-fade-non-selected&quot;]/div[@class=&quot;flex-1 flex relative&quot;]/a[@class=&quot;tw-j7066g tw-xbcb1y transition-opacity flex items-center self-stretch px-4 font-bold&quot;]/span[@class=&quot;text-base block mt-1 pb-1 whitespace-nowrap nav-underline group-hover:nav-underline-selected group-focus:nav-underline-selected&quot;]</value>
+      <webElementGuid>35bae5e9-20ef-4ea1-9882-1f43f233fc72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-bar-sticky']/nav/div/ul/li[3]/div/div/a/span</value>
+      <webElementGuid>628c266b-01f1-465b-87d6-095c1b28c74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[1]/following::span[1]</value>
+      <webElementGuid>a548995a-ae63-4aee-bffd-3f424b0d9644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New &amp; Trending'])[1]/following::span[2]</value>
+      <webElementGuid>63868ad1-c29e-4b68-9985-9aaec4c38e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale'])[1]/preceding::span[1]</value>
+      <webElementGuid>6a4e39ed-1831-4099-8ee7-aeec74570ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New &amp; Trending'])[2]/preceding::span[1]</value>
+      <webElementGuid>3c17fd5d-07f6-48ab-a08e-74232513bc86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Men']/parent::*</value>
+      <webElementGuid>621a0687-48d0-4a29-b95f-8855825dcc52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/a/span</value>
+      <webElementGuid>8889a8f2-746c-4d85-b7cb-fc91fe275ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Men' or . = 'Men')]</value>
+      <webElementGuid>33ffc5a4-1661-4070-8319-bb881fb881f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

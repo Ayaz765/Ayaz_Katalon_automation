@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_271001, Gonda, Uttar Pradesh</name>
+   <tag></tag>
+   <elementGuidId>989082aa-4b0e-4714-b05d-68170b287b66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.custom-delivery-textbox_autocompleteItem__3rdv_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pincode-input']/ul/li/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>45a393cf-0384-4c73-b6bb-4eebf416e4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-delivery-textbox_autocompleteItem__3rdv_</value>
+      <webElementGuid>8f6ae5ff-9ee5-4b35-ad6e-7589a999fc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>271001, Gonda, Uttar Pradesh</value>
+      <webElementGuid>a9baafcf-793d-4c9d-aaaa-1c4377220e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pincode-input&quot;)/ul[@class=&quot;custom-delivery-textbox_autocompleteResults__2mlkw&quot;]/li[@class=&quot;custom-delivery-textbox_listPlace__2e8rw&quot;]/span[@class=&quot;custom-delivery-textbox_autocompleteItem__3rdv_&quot;]</value>
+      <webElementGuid>8c426126-52a4-40cc-a7f8-ef9fbbb80a30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pincode-input']/ul/li/span[2]</value>
+      <webElementGuid>31430ffe-1e34-4cf5-b8f2-1e84a10bcfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Know More'])[2]/following::span[2]</value>
+      <webElementGuid>8c0ed8a1-3b45-4adc-83a8-a1a381bb4780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earliest by Tomorrow'])[1]/following::span[2]</value>
+      <webElementGuid>f8a38c3c-4408-4ab4-ab6b-2eaae744f8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not India Delivery?'])[1]/preceding::span[9]</value>
+      <webElementGuid>930a0118-0a5f-445f-bee0-0f230a5d4e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Delivery Date'])[1]/preceding::span[9]</value>
+      <webElementGuid>98bc6d99-5664-4f7f-ac08-66034b8bcf82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='271001, Gonda, Uttar Pradesh']/parent::*</value>
+      <webElementGuid>2c8185d4-1026-41c3-8e6f-ab7135bbb824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span[2]</value>
+      <webElementGuid>39d5b326-c507-4cfe-bf73-180d361c1605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '271001, Gonda, Uttar Pradesh' or . = '271001, Gonda, Uttar Pradesh')]</value>
+      <webElementGuid>59f3a4c1-a355-497b-8971-64b96974b0ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

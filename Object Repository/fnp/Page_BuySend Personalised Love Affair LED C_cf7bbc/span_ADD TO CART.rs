@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ADD TO CART</name>
+   <tag></tag>
+   <elementGuidId>13788907-d0f9-4ea3-af64-f4033c205a4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='productInformation']/div[10]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1679d580-c7e0-4db8-a62b-0d2acd1cb279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>003a04ca-aba5-4cb6-9675-38d952e985e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADD TO CART</value>
+      <webElementGuid>b7d0e785-11f1-40d9-ad80-5429c8625aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productInformation&quot;)/div[@class=&quot;cart-buttons_pdpButtons__VomiF ins-margin-top-15-c442&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained cart-buttons_formButtonGreen__2aFHS&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>8682a753-6243-4bbd-8fbd-4272aeb6eb5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productInformation']/div[10]/button/span</value>
+      <webElementGuid>cef4a5f4-1b89-4f9d-ba3d-ee6771fc745e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File size between 112 KB - 10 MB. Only JPG, JPEG, PNG.'])[1]/following::span[3]</value>
+      <webElementGuid>7b1e1328-17a9-479d-a81e-be592ce6eac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Personalized Image'])[1]/following::span[3]</value>
+      <webElementGuid>2aaae2c7-13f1-4d27-a43a-fffc225256ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='local_offer'])[1]/preceding::span[4]</value>
+      <webElementGuid>f5c38479-f544-4f2c-a1f2-a3bb631f001c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ADD TO CART']/parent::*</value>
+      <webElementGuid>1fcacf56-61e6-4fe1-ac73-ad4cd5f7e92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>fc0a14d4-b140-4c3c-8c1d-5cfd49caadff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ADD TO CART' or . = 'ADD TO CART')]</value>
+      <webElementGuid>2cfd20b6-0079-40ed-9939-65495189d957</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

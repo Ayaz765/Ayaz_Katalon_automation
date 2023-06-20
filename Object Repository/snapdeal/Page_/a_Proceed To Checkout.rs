@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Proceed To Checkout</name>
+   <tag></tag>
+   <elementGuidId>87f4960b-944d-4c52-9555-a479ad139125</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.marR5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cartProductContainer']/div/div[2]/div[2]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aa7f3f6e-20c5-41f9-9224-bfda2608e743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.snapdeal.com:443/proceedToCheckoutPage?cartId=eb283e45-3138-4ac9-9f6b-e2c702432dfb</value>
+      <webElementGuid>ed82e77d-7e4a-4d64-b751-eb55b8eaa3cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn marR5</value>
+      <webElementGuid>9fefc50a-3a20-448d-bc8f-14710d570efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proceed To Checkout</value>
+      <webElementGuid>f20c5eee-fd5f-4978-b473-c4b3f1857890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartProductContainer&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;cart-item-container row&quot;]/div[@class=&quot;col-xs-14&quot;]/div[@class=&quot;action-container row&quot;]/div[@class=&quot;col-xs-15 btn-container&quot;]/a[@class=&quot;btn marR5&quot;]</value>
+      <webElementGuid>d251d46a-fdbb-4557-9493-f66a8627d466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartProductContainer']/div/div[2]/div[2]/div/div[2]/a</value>
+      <webElementGuid>697832a4-61de-4aab-9a64-e48048014af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Proceed To Checkout')]</value>
+      <webElementGuid>a11f34db-2ae5-4f7c-b600-3fd497c34cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Including delivery and other charges. View Cart for details)'])[1]/following::a[1]</value>
+      <webElementGuid>b14841bf-afca-4b7d-a5eb-4b4acf33e9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs. 399'])[2]/following::a[1]</value>
+      <webElementGuid>2de6d5db-3bed-4e75-b0db-7c8efeba9bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart'])[1]/preceding::a[1]</value>
+      <webElementGuid>9bc714b3-8daf-4e77-8325-8f431b12ca49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Info'])[1]/preceding::a[5]</value>
+      <webElementGuid>1026f3c4-c9b8-4667-8bce-b04d55b4849e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proceed To Checkout']/parent::*</value>
+      <webElementGuid>f4ae3d43-ad17-441a-9c86-2483d246b509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.snapdeal.com:443/proceedToCheckoutPage?cartId=eb283e45-3138-4ac9-9f6b-e2c702432dfb')]</value>
+      <webElementGuid>3e85cf83-1f8e-4691-b3b3-e3005e29d8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>1789b009-d73b-4aa2-822d-a5939d9f5166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.snapdeal.com:443/proceedToCheckoutPage?cartId=eb283e45-3138-4ac9-9f6b-e2c702432dfb' and (text() = 'Proceed To Checkout' or . = 'Proceed To Checkout')]</value>
+      <webElementGuid>01f227b2-bbe0-4296-bfdb-e00a20c55b53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

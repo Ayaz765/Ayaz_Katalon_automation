@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Please select a size</name>
+   <tag></tag>
+   <elementGuidId>ff672db5-4ab7-4d3a-ba89-e6aa08263057</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='puma-skip-here']/div/section/div/section/div/div[6]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.flex.items-center.space-x-3.justify-between.text-puma-red.border.border-puma-red.font-bold.px-3.py-2.text-sm.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4750abc6-3cf4-49a4-b366-56374baa8272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-3 justify-between text-puma-red border border-puma-red font-bold px-3 py-2 text-sm rounded</value>
+      <webElementGuid>88479b64-ff76-4174-97dc-b85bced7aa46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select a size</value>
+      <webElementGuid>1cf7fef3-72f1-4ce2-8c1c-066221dd7274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;puma-skip-here&quot;)/div[@class=&quot;relative box-border flex flex-col mobile:space-y-4 tablet:space-y-6 desktop:space-y-8 mobile:p-4 tablet:p-6 desktop:p-8 max-w-screen-3xl mx-auto font-display&quot;]/section[@class=&quot;flex flex-col space-y-4 sm:space-y-8&quot;]/div[@class=&quot;relative w-full grid grid-cols-1 md:grid-cols-8 lg:grid-cols-12 gap-6 md:gap-8 items-start pb-6&quot;]/section[@class=&quot;order-2 h-full md:col-span-4 lg:col-span-4&quot;]/div[@class=&quot;space-y-6 flex flex-col flex-shrink md:pt-3 md:sticky md:top-[78px]&quot;]/div[6]/p[@class=&quot;flex items-center space-x-3 justify-between text-puma-red border border-puma-red font-bold px-3 py-2 text-sm rounded&quot;]</value>
+      <webElementGuid>5230034e-f635-4182-ac11-b933110914a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='puma-skip-here']/div/section/div/section/div/div[6]/p</value>
+      <webElementGuid>25030322-c00c-4925-a2be-b00bba9ff4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size guide'])[1]/following::p[1]</value>
+      <webElementGuid>c46c0de9-9c05-45aa-8b38-5db70e6005f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find My Size'])[1]/following::p[1]</value>
+      <webElementGuid>ae7497f0-73cc-4afa-9c68-c99bae2103ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/preceding::p[1]</value>
+      <webElementGuid>5f8e0a08-88ef-4b94-af17-616f038088d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/p</value>
+      <webElementGuid>9306fb0d-4cb0-41d2-a127-0fb04cf25432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Please select a size' or . = 'Please select a size')]</value>
+      <webElementGuid>94549b36-cb89-4195-b0cc-7639ff06dc77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

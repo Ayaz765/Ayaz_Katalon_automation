@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to Cart</name>
+   <tag></tag>
+   <elementGuidId>13c8c18b-359b-44ba-9b95-eb2f02f40681</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf2e3c23-65b6-475d-9016-3c421ac29c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>pdp-add-to-cart</value>
+      <webElementGuid>c92a7d31-a815-4f8e-bb1e-a178d3f37a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e31f9559-be4f-4ca1-8ec2-50754f9f8d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group tw-1upxugx tw-g57ppu flex-row after::absolute after::hidden after::pointer-events-none after::-left-1 after::-top-1 after::-right-1 after::-bottom-1 after::border-2 after::border-outline after::rounded-sm focus:after::block tw-10skrdm flex-grow</value>
+      <webElementGuid>daf59a15-f3c9-4988-899b-680913ab701d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>aa6998a7-4aaa-4398-8eff-cfbae9da8ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;puma-skip-here&quot;)/div[@class=&quot;relative box-border flex flex-col mobile:space-y-4 tablet:space-y-6 desktop:space-y-8 mobile:p-4 tablet:p-6 desktop:p-8 max-w-screen-3xl mx-auto font-display&quot;]/section[@class=&quot;flex flex-col space-y-4 sm:space-y-8&quot;]/div[@class=&quot;relative w-full grid grid-cols-1 md:grid-cols-8 lg:grid-cols-12 gap-6 md:gap-8 items-start pb-6&quot;]/section[@class=&quot;order-2 h-full md:col-span-4 lg:col-span-4&quot;]/div[@class=&quot;space-y-6 flex flex-col flex-shrink md:pt-3 md:sticky md:top-[78px]&quot;]/div[@class=&quot;flex space-x-4 items-start&quot;]/div[@class=&quot;w-full flex flex-col space-y-3&quot;]/button[@class=&quot;group tw-1upxugx tw-g57ppu flex-row after::absolute after::hidden after::pointer-events-none after::-left-1 after::-top-1 after::-right-1 after::-bottom-1 after::border-2 after::border-outline after::rounded-sm focus:after::block tw-10skrdm flex-grow&quot;]</value>
+      <webElementGuid>e6f6da64-2f4b-47e4-b8cc-b604b26a7be4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>a1aeb0cb-ecb5-49c1-a0a8-52b768221f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='puma-skip-here']/div/section/div/section/div/div[7]/div[2]/button</value>
+      <webElementGuid>51564102-788e-4954-977b-05f404f1070e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::button[1]</value>
+      <webElementGuid>6554e408-446d-46f2-bbbc-22873711ccce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size guide'])[1]/following::button[1]</value>
+      <webElementGuid>cd88f400-fa34-4fa8-9fcb-3c753629eb0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Wishlist'])[1]/preceding::button[1]</value>
+      <webElementGuid>b8682b0e-8ff0-4fb0-b2a0-d8fd582d2f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/button</value>
+      <webElementGuid>2075e6c7-57ba-44dc-ac52-ffbefa87e8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>06426b3c-4522-49b4-9654-46a3bbe42a07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

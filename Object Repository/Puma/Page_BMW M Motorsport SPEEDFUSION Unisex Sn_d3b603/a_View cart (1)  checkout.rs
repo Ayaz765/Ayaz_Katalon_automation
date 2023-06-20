@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View cart (1)  checkout</name>
+   <tag></tag>
+   <elementGuidId>44524eb5-6253-497e-b5d4-b81287969e41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/div[3]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.tw-tfs64n.tw-1safon7.flex-grow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>865b631c-617e-4c1b-9f1d-d3308c0d80da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c7f87b76-67b0-40b4-86b3-bcc70465a588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>minicart-cart-link</value>
+      <webElementGuid>bb1ecb0f-10ac-4cfb-96de-4e2802c8ef27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-tfs64n tw-1safon7 flex-grow</value>
+      <webElementGuid>19b1a7cf-bc03-42e1-9f2b-fed704912a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/in/en/cart</value>
+      <webElementGuid>a316b54e-ec38-43b9-aff6-66060e8deeca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View cart (1) &amp; checkout</value>
+      <webElementGuid>46efe03c-0020-4c9f-8252-4d6dd99fc3eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;tw-1r8yfhc tw-mikrni mt-0 mr-0 p-6 animate-fade-in w-full max-w-screen-xs&quot;]/div[@class=&quot;grid gap-3 mt-4&quot;]/div[@class=&quot;grid gap-3 mobile:grid-cols-1 grid-cols-1&quot;]/a[@class=&quot;tw-tfs64n tw-1safon7 flex-grow&quot;]</value>
+      <webElementGuid>b6596559-b7c4-4bbd-b372-9ca6d1aeb9d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div[3]/div/a</value>
+      <webElementGuid>26711074-723e-48ae-9010-c55d0e1d841b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View cart (1) &amp; checkout')]</value>
+      <webElementGuid>23068185-b75f-41a3-9ed0-9a9446a64132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹8,999'])[7]/following::a[1]</value>
+      <webElementGuid>5aeab301-32a8-46b1-9428-02897754d163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹4,499'])[7]/following::a[1]</value>
+      <webElementGuid>ccc66a80-90ca-47b6-9054-428e127c0e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/preceding::a[1]</value>
+      <webElementGuid>771e1710-0c87-49fa-9190-2b9cb37a3aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[2]/preceding::a[2]</value>
+      <webElementGuid>5db6ab86-ddab-4e1d-b686-fa0186c3294b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View cart (1) &amp; checkout']/parent::*</value>
+      <webElementGuid>7619a3e5-76c0-4cc6-9076-7fc708e2c290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/in/en/cart')])[2]</value>
+      <webElementGuid>8c6f49e3-e3c3-410a-ab84-4a1f4967e737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>cad81fc8-2735-4469-a761-7dbee6c20e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/in/en/cart' and (text() = 'View cart (1) &amp; checkout' or . = 'View cart (1) &amp; checkout')]</value>
+      <webElementGuid>ab502a84-ae48-441f-a93d-8678a7591f9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_UI for jQuery demos</name>
+   <tag></tag>
+   <elementGuidId>50ccce4e-6621-4cf4-bd75-5716d7ff9d70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.u-c-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContentPlaceholder1_C329_Col00']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bebad2f5-feed-420c-842d-6d290ce6100b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6691f555-ef48-4f97-b217-33c3acac3614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>bd896706-405d-4b99-b666-a611913e1984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demos.telerik.com/kendo-ui/?_ga=2.220885848.1917154554.1686759443-454324880.1686759443&amp;_gl=1*1vcnjlh*_ga*NDU0MzI0ODgwLjE2ODY3NTk0NDM.*_ga_9JSNBCSF54*MTY4Njc1OTQ0NC4xLjAuMTY4Njc1OTQ0NC42MC4wLjA.</value>
+      <webElementGuid>c179bf37-8833-4c8b-a5d0-5fe5b01de926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-c-white</value>
+      <webElementGuid>6e2998a5-b32e-45e3-8c74-b6d7b5924a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track-instance</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>04a06ea8-7d0d-4a73-a139-f41fe34b0364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UI for jQuery demos
+ </value>
+      <webElementGuid>6e184b5e-b50d-4a1b-a3e1-c5842073a01b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceholder1_C329_Col00&quot;)/div[@class=&quot;HoverImg u-mb1&quot;]/div[@class=&quot;LinkContainer&quot;]/a[@class=&quot;u-c-white&quot;]</value>
+      <webElementGuid>8938865f-5805-45c0-8d18-91ba26e86bef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContentPlaceholder1_C329_Col00']/div/div/a</value>
+      <webElementGuid>7338fd38-1620-418d-9c05-67a14fae227a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'UI for jQuery demos')]</value>
+      <webElementGuid>cf392948-afb2-4894-940e-8d5d576e9210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web'])[3]/following::a[1]</value>
+      <webElementGuid>f7993b28-9dbe-4951-a6fb-d52e7b8dcd96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More about Telerik DevCraft'])[1]/following::a[1]</value>
+      <webElementGuid>a3ac8381-e477-49ec-9292-0adc849ab26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UI for Angular demos'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d3d90b4-a46e-40a8-8a15-e82a9e86dbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KendoReact demos'])[1]/preceding::a[2]</value>
+      <webElementGuid>7b631d39-b06f-4bc4-8fa6-bcec063a4394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UI for jQuery demos']/parent::*</value>
+      <webElementGuid>87ee9836-0090-494e-b65a-a0f48945f014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demos.telerik.com/kendo-ui/?_ga=2.220885848.1917154554.1686759443-454324880.1686759443&amp;_gl=1*1vcnjlh*_ga*NDU0MzI0ODgwLjE2ODY3NTk0NDM.*_ga_9JSNBCSF54*MTY4Njc1OTQ0NC4xLjAuMTY4Njc1OTQ0NC42MC4wLjA.')]</value>
+      <webElementGuid>422208db-5466-4ef7-9afe-45d773e0cc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/div/div/div/a</value>
+      <webElementGuid>c8d7fbfc-abf6-4e20-a50b-ddefd6f15b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demos.telerik.com/kendo-ui/?_ga=2.220885848.1917154554.1686759443-454324880.1686759443&amp;_gl=1*1vcnjlh*_ga*NDU0MzI0ODgwLjE2ODY3NTk0NDM.*_ga_9JSNBCSF54*MTY4Njc1OTQ0NC4xLjAuMTY4Njc1OTQ0NC42MC4wLjA.' and (text() = 'UI for jQuery demos
+ ' or . = 'UI for jQuery demos
+ ')]</value>
+      <webElementGuid>11b8b892-ecba-4f57-b42b-8650d5232fc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

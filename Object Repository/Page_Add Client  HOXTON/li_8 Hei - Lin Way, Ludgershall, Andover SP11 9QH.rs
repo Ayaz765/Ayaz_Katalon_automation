@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_8 Hei - Lin Way, Ludgershall, Andover SP11 9QH</name>
+   <tag></tag>
+   <elementGuidId>4747f420-8264-4df9-b5bf-165f50a0addc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ul-0']/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>19a9d16d-e1f7-4af8-a8d9-fc2096d495df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>md-virtual-repeat</name>
+      <type>Main</type>
+      <value>item in $mdAutocompleteCtrl.matches</value>
+      <webElementGuid>393d1dac-66df-4717-9f8e-90cf5f264336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ selected: $index === $mdAutocompleteCtrl.index }</value>
+      <webElementGuid>623b060d-0507-45ca-bfd5-9f10b5015fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-attr-id</name>
+      <type>Main</type>
+      <value>{{$index === $mdAutocompleteCtrl.index ? 'selected_option' : undefined}}</value>
+      <webElementGuid>0686a6d5-f241-4ea9-8e86-41a8fbcfa7f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>$mdAutocompleteCtrl.select($index)</value>
+      <webElementGuid>62271055-3fae-47d2-9cbe-104dc01e203a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>2a7b1a94-4c3a-45eb-bff0-5b3c0af95357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>07e5f1f8-45ec-4172-b02f-4114597b8f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>199fd733-ac9a-4d91-843c-6ef26c6a0060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>11409117-da43-421e-bbf2-b76a0641d90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>md-extra-name</name>
+      <type>Main</type>
+      <value>$mdAutocompleteCtrl.itemName</value>
+      <webElementGuid>2a152cda-2046-408f-a6e1-742aa8a0070a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>f0fda307-758e-48da-b4dd-c1915b119cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a5990759-f0d1-4a2d-93b3-fe2a29f5e689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                  
+
+        8 Hei - Lin Way, Ludgershall, Andover SP11 9QH
+                      </value>
+      <webElementGuid>c51f2120-6f3b-4b77-a765-c2ea282a58ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ul-0&quot;)/li[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>66af6771-8cc1-4fb8-9cac-c8ca85f7bf18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ul-0']/li[2]</value>
+      <webElementGuid>8bb12a8a-3b76-42cf-ae07-8238dfde9c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::li[2]</value>
+      <webElementGuid>8d38fe6e-8a6a-41ec-a4db-7e4923b9526f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::li[2]</value>
+      <webElementGuid>8273615b-8c28-45f5-ac2d-59a1b5b97a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ul-0', '&quot;', ')/li[@class=', '&quot;', 'ng-scope', '&quot;', ']')])[1]/preceding::li[1]</value>
+      <webElementGuid>02f820ac-2563-4a2f-9877-6481074526cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]</value>
+      <webElementGuid>ab6ce420-ea8a-41b6-9471-b8a1ee07c4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '                  
+
+        8 Hei - Lin Way, Ludgershall, Andover SP11 9QH
+                      ' or . = '                  
+
+        8 Hei - Lin Way, Ludgershall, Andover SP11 9QH
+                      ')]</value>
+      <webElementGuid>be832ada-d8cf-4d51-b36e-aba606d38ad8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
